@@ -19,3 +19,4 @@ void insertionSort(int* a, int size){
 	}
 	cout<<endl;
 }
+ 
